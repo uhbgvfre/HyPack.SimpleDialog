@@ -9,7 +9,7 @@
 - Depends on UniRx (please preinstall to your project)
   - [Github](https://github.com/neuecc/UniRx)
   - [AssetStore](https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276) 
--  Import .unitypackage
+-  Import .unitypackage in "HyPack.SimpleDialog/Unitypackage/"
 
 ## Setup 
 1. Makesure "HyPack/SimpleDialog/SimpleDialog.prefab" exist in scene
