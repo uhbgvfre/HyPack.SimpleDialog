@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1a9bb1b5fd9dc468409c5a3ff0777b, type: 3}
+  m_Name: DialogRepoSettings
+  m_EditorClassIdentifier: 
+  m_DialogTemplatePrefabs:
+  - {fileID: 3380865571335948146, guid: a5106b8d246642741b39c8ad41b327fe, type: 3}
+  - {fileID: 7298007381644469869, guid: 50fc6a20361387f489a572c8a1850a08, type: 3}
+  - {fileID: 5173559248016874604, guid: d078f03010fe8b343bc246f9540a8627, type: 3}
